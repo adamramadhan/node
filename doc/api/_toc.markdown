@@ -1,5 +1,5 @@
-* [About these Docs](documentation.html)
-* [Synopsis](synopsis.html)
+* [Tentang dokumentasi ini](documentation.html)
+* [Ringkasan](synopsis.html)
 * [Globals](globals.html)
 * [STDIO](stdio.html)
 * [Timers](timers.html)
